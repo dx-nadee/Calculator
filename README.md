@@ -39,18 +39,16 @@ A beautiful, responsive, and functional calculator built using **HTML**, **CSS**
 
 ---
 
-## 📸 UI Preview
 
-Here’s a glimpse of the calculator:
-
-![UI Preview](./56380f0b-92ee-48b4-b096-dafc9b42283f.png)
-
----
 
 ## ✨ Getting Started
 
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/shubham-cyber-prog/Calculator.git
-cd Calculator
-open index.html
+
+✍️ Author
+👨‍💻 Subham Nayak
+🌐 Portfolio
+🔗 LinkedIn
+🐱 GitHub
