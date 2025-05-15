@@ -47,8 +47,11 @@ A beautiful, responsive, and functional calculator built using **HTML**, **CSS**
    ```bash
    git clone https://github.com/shubham-cyber-prog/Calculator.git
 
-✍️ Author
-👨‍💻 Subham Nayak
-🌐 Portfolio
-🔗 LinkedIn
-🐱 GitHub
+## ✍️ Author
+
+🐾 **Author**: 👨‍💻 [Subham Nayak](https://shubham-cyber-prog.github.io/)  
+🌐 [🌍 Portfolio](https://shubham-cyber-prog.github.io/) |
+🔗 [LinkedIn](https://linkedin.com/in/subham-nayak-00276930b) |
+🐱 [GitHub](https://github.com/Shubham-cyber-prog)
+
+
