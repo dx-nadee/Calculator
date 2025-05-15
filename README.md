@@ -2,7 +2,6 @@
 
 A beautiful, responsive, and functional calculator built using **HTML**, **CSS**, and **JavaScript** with a modern UI inspired by neumorphism.
 
-![Calculator Screenshot](./56380f0b-92ee-48b4-b096-dafc9b42283f.png)
 
 ## 🔗 Live Demo
 
